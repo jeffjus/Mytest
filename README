@@ -1,1 +1,8 @@
 This is my first git project
+
+Adding some fluff to this file to test out branching
+
+git checkout -b test
+
+git status
+git branch
